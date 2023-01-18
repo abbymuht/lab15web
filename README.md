@@ -5,7 +5,7 @@
 # UNIVERSITAS PELITA BANGSA
 # Langkah 1
 # Ini hasilnya pertemuan lab15 web
-![Gambar 1](SS/ss1.png)
+![Gambar 1](SS/ss2.png)
 #
 # 
 # Cukup sekian penjelasan dari saya
